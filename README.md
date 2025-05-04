@@ -33,14 +33,7 @@ I'm a driven entrepreneur with a love for building and creating 🌟. I've launc
 | 🧪 **Testing** | <img src="testing/Selenium.svg" alt="Selenium" height="48"/> <img src="testing/Jest.svg" alt="Jest" height="48"/> <img src="testing/Cypress.svg" alt="Cypress" height="48"/> |
 | 🔄 **Versioning** | <img src="versioning/Git.svg" alt="Git" height="48"/> <img src="versioning/Github.svg" alt="Github" height="48"/> <img src="versioning/GitLab.svg" alt="GitLab" height="48"/> <img src="versioning/BitBucket.svg" alt="BitBucket" height="48"/> |
 
-## Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=wassim-azi&theme=gitdimmed&rank=SSS,SS,S,AAA,AA,A,B&margin-w=5&no-frame=true">
-
 ## 📫 Let's Connect
 
 <a href="https://twitter.com/wassim_azi"><img src="social/twitter.png" height="48"/></a>
 <a href="https://linkedin.com/in/wassim-azi"><img src="social/linkedin.png" height="48"/></a>
-
-## Profile visitors
-
-![visitor count](https://profile-counter.glitch.me/wassim-azi/count.svg)
